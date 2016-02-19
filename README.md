@@ -43,4 +43,4 @@ if you want to also autocomplete model functions you can add like this . in this
         
 now i can use my apimodel functions like this 
 
-$this->apimodel->gen_new_api($nome);
+    $this->apimodel->gen_new_api($nome);
